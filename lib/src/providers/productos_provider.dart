@@ -6,7 +6,7 @@ import 'package:http/http.dart' as http;
 
 class ProductosProvider{
 
-  final String _url ="http://192.168.100.88:80/api_ventas_cocha/public/api";
+  final String _url ="http://192.168.0.119/ventas-julvic-backend/public/api";
   //final String _url ="https://stark-mountain-29753.herokuapp.com/api";
 
   
